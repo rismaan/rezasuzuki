@@ -27,7 +27,7 @@ export const CAR_DATA: CarModel[] = [
   },
   {
     modelName: 'All New Ertiga',
-    imageUrl: 'https://suzuki-mobilsurabaya.com/wp-content/uploads/2024/02/ERTIGA-CRUISE.jpg',
+    imageUrl: 'https://i.imghippo.com/files/bz4315U.jpg',
     variants: [
       { name: 'GA', price: 241750000 },
       { name: 'MC GL MT', price: 265350000 },
@@ -42,7 +42,7 @@ export const CAR_DATA: CarModel[] = [
   },
   {
     modelName: 'Grand Vitara',
-    imageUrl: 'https://imgcdn.oto.com/medium/gallery/exterior/37/2721/suzuki-grand-vitara-2023-24584.jpg',
+    imageUrl: 'https://i.imghippo.com/files/nyY6685ns.jpg',
     variants: [
       { name: 'GX AT', price: 403200000 },
       { name: 'GX AT 2TONE', price: 406100000 },
@@ -50,7 +50,7 @@ export const CAR_DATA: CarModel[] = [
   },
   {
     modelName: 'Jimny',
-    imageUrl: 'https://asset.kompas.com/crops/_Pm3iSjPSB90fMBRpwYKnTCjHLo=/0x52:808x590/1200x800/data/photo/2021/09/06/6135ab239662b.jpg',
+    imageUrl: 'https://i.imghippo.com/files/VP6028taI.jpg',
     variants: [
       { name: '3 DOOR MT', price: 511500000 },
       { name: '3 DOOR AT', price: 524000000 },
@@ -65,7 +65,7 @@ export const CAR_DATA: CarModel[] = [
   },
   {
     modelName: 'S-Presso',
-    imageUrl: 'https://imgcdn.oto.com/large/gallery/exterior/37/2620/suzuki-s-presso-front-angle-low-view-628835.jpg',
+    imageUrl: 'https://i.imghippo.com/files/mMBp3850YB.jpg',
     variants: [
       { name: 'MT', price: 176600000 },
       { name: 'AT', price: 186600000 },
@@ -85,7 +85,7 @@ export const CAR_DATA: CarModel[] = [
   },
   {
     modelName: 'New Carry PU',
-    imageUrl: 'https://imgcdn.oto.com/large/gallery/exterior/37/2158/suzuki-carry-front-angle-low-view-924731.jpg',
+    imageUrl: 'https://i.imghippo.com/files/bJmx5797nlw.jpg',
     variants: [
       { name: 'PU', price: 175500000 },
       { name: 'PU FD AC PS', price: 183500000 },
@@ -95,7 +95,7 @@ export const CAR_DATA: CarModel[] = [
   },
   {
     modelName: 'APV',
-    imageUrl: 'https://static.carmudi.co.id/cXtOIVuq_-eKytITKL-UkobOL4c=/900x405/https://www.trenotomotif.com/ncs/images/Suzuki/APV%20Arena/Thumbnail%20APV.jpg',
+    imageUrl: 'https://i.imghippo.com/files/AHE7884PaY.jpg',
     variants: [
       { name: 'GE PS MT AB', price: 228200000 },
       { name: 'GL MT AB', price: 236400000 },
