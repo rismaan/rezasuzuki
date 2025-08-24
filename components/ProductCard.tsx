@@ -1,4 +1,3 @@
-
 import React from 'react';
 import type { CarModel, CarVariant } from '../types';
 import { WHATSAPP_NUMBER } from '../constants';
@@ -30,8 +29,7 @@ const WhatsAppButton: React.FC<{ modelName: string, variantName: string }> = ({ 
       className="inline-flex items-center justify-center px-4 py-2 bg-green-500 text-white text-sm font-medium rounded-md hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500 transition-colors"
     >
       <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-2" viewBox="0 0 20 20" fill="currentColor">
-          <path d="M10.193 2.004a8 8 0 10-8.189 8.977L2 18l7.019-.99a8 8 0 001.174-9.006zM10 16.5a6.5 6.5 0 110-13 6.5 6.5 0 010 13z"/>
-          <path d="M10.99 6.075c-.244-.122-.512-.19-.785-.19-.488 0-.951.17-1.341.512l-.39.39c-.1.1-.15.22-.15.35v.02c.01.13.06.25.15.34l.39.39c.39.342.853.512 1.341.512.273 0 .541-.068.785-.19l.315-.15c.19-.09.31-.26.31-.46v-.02c0-.2-.12-.37-.31-.46l-.315-.15zM8.52 9.475c-.244-.122-.512-.19-.785-.19-.488 0-.951.17-1.341.512l-.39.39c-.1.1-.15.22-.15.35v.02c.01.13.06.25.15.34l.39.39c.39.342.853.512 1.341.512.273 0 .541-.068.785-.19l.315-.15c.19-.09.31-.26.31-.46v-.02c0-.2-.12-.37-.31-.46l-.315-.15z"/>
+        <path d="M3.925 2.075A1.999 1.999 0 016.438 1.5l.21.043c.48.098.887.493 1.035.975l.492 1.637a.999.999 0 01-.35 1.038l-.68.544a1 1 0 00-.538 1.335c.67 1.34 1.838 2.508 3.179 3.179a1 1 0 001.335-.538l.544-.68c.28-.35.76-.453 1.038-.35l1.637.492c.482.147.877.554.975 1.035l.043.21a1.999 1.999 0 01-1.02 2.146l-1.42.568a1.999 1.999 0 01-2.23-.427c-2.454-2.453-5.26-5.26-7.713-7.713a1.999 1.999 0 01-.427-2.23l.568-1.42a1.999 1.999 0 012.146-1.02z" />
       </svg>
       Pesan
     </a>

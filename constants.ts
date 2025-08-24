@@ -13,7 +13,7 @@ export const CAROUSEL_IMAGES: string[] = [
 export const CAR_DATA: CarModel[] = [
   {
     modelName: 'Suzuki XL7 Hybrid',
-    imageUrl: 'https://imgcdn.oto.com/large/gallery/exterior/37/2220/suzuki-xl7-front-angle-low-view-562371.jpg?tr=w-510,h-340',
+    imageUrl: 'https://i.imghippo.com/files/Tqco6905wPw.jpg',
     variants: [
       { name: 'ZETA MT', price: 269900000 },
       { name: 'ZETA AT', price: 281100000 },
@@ -107,23 +107,70 @@ export const CAR_DATA: CarModel[] = [
 
 export const TESTIMONIALS_DATA: Testimonial[] = [
   {
-    name: 'Budi Santoso',
+    name: 'Alvin',
     carModel: 'Suzuki Jimny',
-    imageUrl: 'https://i.imghippo.com/files/nrtd6714WU.jpg',
+    imageUrl: 'https://i.imghippo.com/files/ClK2106OQ.jpg',
   },
   {
-    name: 'Angga',
+    name: 'Azmi',
     carModel: 'Suzuki Jimny',
-    imageUrl: 'https://i.imghippo.com/files/Yqv5125wDk.jpg',
+    imageUrl: 'https://i.imghippo.com/files/mXo2780hY.jpg',
   },
   {
-    name: 'Widya',
+    name: 'Nita',
     carModel: 'Suzuki Fronx',
-    imageUrl: 'https://i.imghippo.com/files/sjM3184mA.jpg',
+    imageUrl: 'https://i.imghippo.com/files/WBPl8419mgE.jpg',
   },
    {
-    name: 'Dewi Lestari',
-    carModel: 'Suzuki XL7',
-    imageUrl: 'https://i.imghippo.com/files/OUFK1224si.jpg',
+    name: 'Nurhalimah',
+    carModel: 'Suzuki XL7 Alpha',
+    imageUrl: 'https://i.imghippo.com/files/dlN6450OYw.jpg',
   },
+  {
+    name: 'Bobby',
+    carModel: 'Suzuki Grand Vitara',
+    imageUrl: 'https://i.imghippo.com/files/BoRQ8447RQ.jpg',
+  },
+  {
+    name: 'Kiki',
+    carModel: 'Suzuki Baleno',
+    imageUrl: 'https://i.imghippo.com/files/DpT4545Vjk.jpg',
+  },
+  {
+    name: 'Rina',
+    carModel: 'Suzuki S-Presso',
+    imageUrl: 'https://i.imghippo.com/files/uR1163M.jpg',
+  },
+  {
+    name: 'Eriska',
+    carModel: 'Suzuki Baleno',
+    imageUrl: 'https://i.imghippo.com/files/jQQF1141XDc.jpg',
+  },
+  {
+    name: 'Hilal',
+    carModel: 'Suzuki New Carry',
+    imageUrl: 'https://i.imghippo.com/files/Z4828mBE.jpg',
+  },
+  {
+    name: 'Anton',
+    carModel: 'Suzuki XL7 Alpha',
+    imageUrl: 'https://i.imghippo.com/files/MjOG1577xgg.jpg',
+  },
+  {
+    name: 'Dado',
+    carModel: 'Suzuki New Carry',
+    imageUrl: 'https://i.imghippo.com/files/rXk2747JcM.jpg',
+  },
+
+  {
+    name: 'Puspita',
+    carModel: 'Suzuki XL7 Alpha',
+    imageUrl: 'https://i.imghippo.com/files/Zox5615Q.jpg',
+  },
+  {
+    name: 'Riski',
+    carModel: 'Suzuki New Carry',
+    imageUrl: 'https://i.imghippo.com/files/XX2980CCI.jpg',
+  },
+  
 ];

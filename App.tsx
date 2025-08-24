@@ -6,6 +6,7 @@ import ProductList from './components/ProductList';
 import Testimonials from './components/Testimonials';
 import Footer from './components/Footer';
 import TestDriveModal from './components/TestDriveModal';
+import LiveChat from './components/LiveChat';
 import { CAROUSEL_IMAGES } from './constants';
 
 const App: React.FC = () => {
@@ -24,6 +25,7 @@ const App: React.FC = () => {
       </main>
       <Footer />
       <TestDriveModal isOpen={isModalOpen} onClose={handleCloseModal} />
+      <LiveChat />
     </div>
   );
 };
